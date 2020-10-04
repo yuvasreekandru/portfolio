@@ -126,6 +126,10 @@ font-size: 18px;
   display: flex;
   align-items: center;
  }
+ 
+ /* .modal-body {
+    visibility: hidden;
+ } */
 /******** contact *********/
 .contact{
     height:60vh;
@@ -148,7 +152,7 @@ font-size: 18px;
 }
 .details li{
     color:white;
-    padding:10px 0;
+    padding:10px 5px 10px 35px;
 }
 .details a{
     text-decoration: none;
