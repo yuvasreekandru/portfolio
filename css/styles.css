@@ -47,9 +47,9 @@ header{
     flex-direction: column;
     margin-top:30px;
 }
-.a-heading h2, .w-heading{
-    font-size: 3rem;
-    font-weight: 800;
+.a-heading h3, .w-heading, .contact-heading{
+    font-size: 2.5rem;
+    font-weight: 500;
     letter-spacing: 1px;
 }
 .about-img{
@@ -130,10 +130,6 @@ font-size: 18px;
   display: flex;
   align-items: center;
  }
- 
- /* .modal-body {
-    visibility: hidden;
- } */
 /******** contact *********/
 .contact{
     height:60vh;
